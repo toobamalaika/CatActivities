@@ -6,7 +6,7 @@ export function Nav() {
             <ul className="navbar-nav">
                 {/* Logo */}
                 <li className="logo">
-                    <a href="/" className="nav-link">
+                    <a  className="nav-link">
                     <span className="link-text logo-text">Cat Food</span>
                     <svg
                         aria-hidden="true"
@@ -37,7 +37,7 @@ export function Nav() {
                 
                 {/* List Start */}
                 <li className="nav-item">
-                    <a href="/" className="nav-link">
+                    <a  className="nav-link">
                     <svg
                         aria-hidden="true"
                         focusable="false"
@@ -65,7 +65,7 @@ export function Nav() {
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a href="/" className="nav-link">
+                    <a  className="nav-link">
                     <svg
                         aria-hidden="true"
                         focusable="false"
@@ -93,7 +93,7 @@ export function Nav() {
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a href="/" className="nav-link">
+                    <a  className="nav-link">
                     <svg
                         aria-hidden="true"
                         focusable="false"
@@ -121,7 +121,7 @@ export function Nav() {
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a href="/" className="nav-link">
+                    <a  className="nav-link">
                     <svg
                         aria-hidden="true"
                         focusable="false"
